@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(102, 160, 160);
+}
+.container {
+  width: 30%;
+  margin: 0 auto;
+}
+.ping {
+  width: 100%;
+}
+.score-div {
+  display: flex;
+  height: 100px;
+}
+#number {
+  height: 20px;
+  margin: 13px 0 50px 15px;
+}
+button {
+  height: 40px;
+  border-radius: 10px;
+}
+.score,
+.to,
+.sec-score {
+  font-size: 40px;
+  font-weight: bold;
+  color: rgb(58, 6, 117);
+  margin-right: 10px;
+}
+#num {
+  height: 35px;
+  margin-top: 10px;
+  margin-left: 20px;
+  border-radius: 5px;
+  color: red;
+  font-size: 20px;
+  background-color: rgb(65, 59, 70);
+}
